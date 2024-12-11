@@ -32,6 +32,8 @@ bin/
 *.ipr
 *.iws
 *.idea
+.idea/*
+.idea/
 
 .vscode/
 README.html
